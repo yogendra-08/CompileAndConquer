@@ -19,17 +19,21 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
