@@ -8,6 +8,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0001-two-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yogendra-08/CompileAndConquer/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 | [0704-binary-search](https://github.com/yogendra-08/CompileAndConquer/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0015-3sum) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +100,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yogendra-08/CompileAndConquer/tree/master/0234-palindrome-linked-list) |
 ## Linked List
