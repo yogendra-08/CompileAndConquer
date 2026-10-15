@@ -67,6 +67,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yogendra-08/CompileAndConquer/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -88,6 +89,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 ## Ordered Set
 |  |
@@ -106,9 +108,18 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/yogendra-08/CompileAndConquer/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yogendra-08/CompileAndConquer/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
