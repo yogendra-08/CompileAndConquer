@@ -13,10 +13,12 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 | [0704-binary-search](https://github.com/yogendra-08/CompileAndConquer/tree/master/0704-binary-search) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0001-two-sum) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,10 +76,12 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
 |  |
 | ------- |
