@@ -181,6 +181,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -210,4 +211,8 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
