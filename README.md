@@ -13,6 +13,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/yogendra-08/CompileAndConquer/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yogendra-08/CompileAndConquer/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
@@ -24,6 +25,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Search
 |  |
@@ -153,14 +155,28 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
