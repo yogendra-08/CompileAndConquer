@@ -18,6 +18,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 | [0704-binary-search](https://github.com/yogendra-08/CompileAndConquer/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yogendra-08/CompileAndConquer/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yogendra-08/CompileAndConquer/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
@@ -98,11 +99,13 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yogendra-08/CompileAndConquer/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yogendra-08/CompileAndConquer/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yogendra-08/CompileAndConquer/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yogendra-08/CompileAndConquer/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0134-gas-station](https://github.com/yogendra-08/CompileAndConquer/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yogendra-08/CompileAndConquer/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/yogendra-08/CompileAndConquer/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
