@@ -26,6 +26,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0001-two-sum) |
+| [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -76,6 +77,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/yogendra-08/CompileAndConquer/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 ## Dynamic Programming
@@ -182,6 +185,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0052-n-queens-ii) |
+| [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -215,4 +219,8 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0052-n-queens-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
