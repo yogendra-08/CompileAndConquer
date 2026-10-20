@@ -150,5 +150,10 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
