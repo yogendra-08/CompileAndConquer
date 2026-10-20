@@ -14,6 +14,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0134-gas-station](https://github.com/yogendra-08/CompileAndConquer/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yogendra-08/CompileAndConquer/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
@@ -26,6 +27,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0001-two-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -190,4 +193,16 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0818-race-car](https://github.com/yogendra-08/CompileAndConquer/tree/master/0818-race-car) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/yogendra-08/CompileAndConquer/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
