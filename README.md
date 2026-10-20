@@ -33,6 +33,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
@@ -150,10 +151,16 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
