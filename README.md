@@ -21,6 +21,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0704-binary-search](https://github.com/yogendra-08/CompileAndConquer/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yogendra-08/CompileAndConquer/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/yogendra-08/CompileAndConquer/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/yogendra-08/CompileAndConquer/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0818-race-car](https://github.com/yogendra-08/CompileAndConquer/tree/master/0818-race-car) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/yogendra-08/CompileAndConquer/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0052-n-queens-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/yogendra-08/CompileAndConquer/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Trie
 |  |
 | ------- |
@@ -223,4 +226,12 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0126-word-ladder-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/yogendra-08/CompileAndConquer/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/yogendra-08/CompileAndConquer/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
