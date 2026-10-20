@@ -12,6 +12,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0015-3sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/yogendra-08/CompileAndConquer/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/yogendra-08/CompileAndConquer/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/yogendra-08/CompileAndConquer/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/yogendra-08/CompileAndConquer/tree/master/0218-the-skyline-problem) |
 | [0704-binary-search](https://github.com/yogendra-08/CompileAndConquer/tree/master/0704-binary-search) |
@@ -138,4 +139,5 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0011-container-with-most-water](https://github.com/yogendra-08/CompileAndConquer/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/yogendra-08/CompileAndConquer/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/yogendra-08/CompileAndConquer/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
