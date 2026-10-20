@@ -155,6 +155,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/yogendra-08/CompileAndConquer/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/yogendra-08/CompileAndConquer/tree/master/0179-largest-number) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/yogendra-08/CompileAndConquer/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0818-race-car](https://github.com/yogendra-08/CompileAndConquer/tree/master/0818-race-car) |
 ## Bracket Sequences
