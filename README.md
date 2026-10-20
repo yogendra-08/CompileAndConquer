@@ -48,6 +48,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0094-binary-tree-inorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0543-diameter-of-binary-tree) |
@@ -56,6 +57,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0543-diameter-of-binary-tree) |
@@ -65,6 +67,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0094-binary-tree-inorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogendra-08/CompileAndConquer/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0543-diameter-of-binary-tree) |
@@ -76,6 +79,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yogendra-08/CompileAndConquer/tree/master/0543-diameter-of-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -167,6 +171,7 @@ A collection of coding solutions to college assignments and LeetCode problems, d
 | [0032-longest-valid-parentheses](https://github.com/yogendra-08/CompileAndConquer/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/yogendra-08/CompileAndConquer/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/yogendra-08/CompileAndConquer/tree/master/0087-scramble-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogendra-08/CompileAndConquer/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/yogendra-08/CompileAndConquer/tree/master/0140-word-break-ii) |
 | [0818-race-car](https://github.com/yogendra-08/CompileAndConquer/tree/master/0818-race-car) |
 ## Bracket Sequences
